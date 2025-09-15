@@ -7,6 +7,7 @@ out/
 /broadcast/*/31337/
 /broadcast/**/dry-run/
 /broadcast/
+temp_auto_push.bat
 
 # Docs
 docs/
@@ -15,4 +16,5 @@ docs/
 .env
 
 # zkSync
-zkout/
+zkout/.gitignore
+temp_interactive_push.bat
